@@ -1,0 +1,37 @@
+__pycache__/
+*.py[cod]
+*.so
+*.dylib
+build/
+dist/
+*.egg-info/
+.eggs/
+*.egg
+
+# C++ build artifacts
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.o
+*.a
+
+# Data and index files
+data/*.wal
+data/*.index
+data/*.npy
+data/*.json
+
+# Benchmark output
+scripts/benchmark_results.png
+scripts/*.png
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Environment
+.env
+venv/
+.venv/
