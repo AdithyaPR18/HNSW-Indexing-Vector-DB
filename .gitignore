@@ -26,6 +26,9 @@ data/*.json
 scripts/benchmark_results.png
 scripts/*.png
 
+# Claude
+CLAUDE.md
+
 # IDE
 .vscode/
 .idea/
