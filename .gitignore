@@ -22,9 +22,6 @@ data/*.index
 data/*.npy
 data/*.json
 
-# Benchmark output
-scripts/benchmark_results.png
-scripts/*.png
 
 # Claude
 CLAUDE.md
